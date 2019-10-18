@@ -1,6 +1,6 @@
 {
   "name": "dagou-util",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "dagou's tools",
   "main": "index.js",
   "scripts": {
